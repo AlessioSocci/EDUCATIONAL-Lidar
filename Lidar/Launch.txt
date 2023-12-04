@@ -1,0 +1,1 @@
+./SSprayLidar --channel --serial /dev/LIDAR 1000000
